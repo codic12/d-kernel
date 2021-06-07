@@ -1,5 +1,5 @@
 module src.kernel;
-import core.volatile; // will be core.volatile in later gdc
+import core.volatile; 
 import src.idt;
 import src.ports;
 
